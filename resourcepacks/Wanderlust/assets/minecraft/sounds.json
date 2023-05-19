@@ -1,0 +1,3322 @@
+{
+    "blank": {
+        "sounds": [
+            {
+                "name": "blank",
+                "category": "sound"
+            }
+        ]
+    },
+    "duck.quack": {
+        "sounds": [
+            {
+                "name": "animal/duck.quack",
+                "category": "sound"
+            }
+        ]
+    },
+    "Flail_Use01": {
+        "sounds": [
+            {
+                "name": "animal/Flail_Use01",
+                "category": "sound"
+            }
+        ]
+    },
+    "squirrel": {
+        "sounds": [
+            {
+                "name": "animal/squirrel",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "wolfatt": {
+        "sounds": [
+            {
+                "name": "animal/wolfatt",
+                "category": "sound"
+            }
+        ]
+    },
+    "wolfdie": {
+        "sounds": [
+            {
+                "name": "animal/wolfdie",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "wolfhit": {
+        "sounds": [
+            {
+                "name": "animal/wolfhit",
+                "category": "sound"
+            },
+			{
+                "name": "animal/wolfhit2",
+                "category": "sound"
+            },
+			{
+                "name": "animal/wolfhit3",
+                "category": "sound"
+            }
+        ]
+    },
+    "wolfhowl": {
+        "sounds": [
+            {
+                "name": "animal/wolfhowl",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "animal/wolf_howl_01",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "animal/wolf_howl_02",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "animal/wolf_howl_03",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "animal/wolf_howl_04",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "animal/wolf_howl_05",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "animal/wolf_howl_06",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "animal/wolf_howl_07",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "animal/wolf_howl_08",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "wolfgrowl": {
+        "sounds": [
+            {
+                "name": "animal/wolf_growl_01",
+                "category": "sound"
+            },
+			{
+                "name": "animal/wolf_growl_02",
+                "category": "sound"
+            },
+			{
+                "name": "animal/wolf_growl_03",
+                "category": "sound"
+            },
+			{
+                "name": "animal/wolf_growl_04",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "animal/wolf_growl_05",
+                "category": "sound"
+            },
+			{
+                "name": "animal/wolf_growl_06",
+                "category": "sound"
+            },
+			{
+                "name": "animal/wolf_growl_07",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "animal/wolf_growl_08",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "emotion.awkward": {
+        "sounds": [
+            {
+                "name": "emotion/emotion.awkward",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "emotion.confused": {
+        "sounds": [
+            {
+                "name": "emotion/emotion.confused",
+                "category": "sound"
+            }
+        ]
+    },
+    "emotion.disapointed": {
+        "sounds": [
+            {
+                "name": "emotion/emotion.disapointed",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "emotion.dizzy": {
+        "sounds": [
+            {
+                "name": "emotion/emotion.dizzy",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "emotion.shivering": {
+        "sounds": [
+            {
+                "name": "emotion/emotion.shivering",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "emotion.twitch": {
+        "sounds": [
+            {
+                "name": "emotion/emotion.twitch",
+                "category": "sound"
+            }
+        ]
+    },
+    "bearform": {
+        "sounds": [
+            {
+                "name": "misc/bearform",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "bell.arrow": {
+        "sounds": [
+            {
+                "name": "misc/bell.arrow",
+                "category": "sound"
+            }
+        ]
+    },
+    "bell.boxing": {
+        "sounds": [
+            {
+                "name": "misc/bell.boxing",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "bell.door": {
+        "sounds": [
+            {
+                "name": "misc/bell.door",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "bell.fairies": {
+        "sounds": [
+            {
+                "name": "misc/bell.fairies",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "bell.town": {
+        "sounds": [
+            {
+                "name": "misc/bell.town",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "bombbeep": {
+        "sounds": [
+            {
+                "name": "misc/bombbeep",
+                "category": "sound"
+            }
+        ]
+    },
+    "bounce": {
+        "sounds": [
+            {
+                "name": "misc/bounce",
+                "category": "sound"
+            }
+        ]
+    },
+    "break.stone": {
+        "sounds": [
+            {
+                "name": "misc/break.stone",
+                "category": "sound"
+            }
+        ]
+    },
+    "cauldron.dump": {
+        "sounds": [
+            {
+                "name": "misc/cauldron.dump",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "cauldron.fill": {
+        "sounds": [
+            {
+                "name": "misc/cauldron.fill",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "cauldron.loop": {
+        "sounds": [
+            {
+                "name": "misc/cauldron.loop",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "cauldron.splash": {
+        "sounds": [
+            {
+                "name": "misc/cauldron.splash1",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "misc/cauldron.splash2",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "misc/cauldron.splash3",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "clean": {
+        "sounds": [
+            {
+                "name": "misc/clean",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "clock.cuckoo": {
+        "sounds": [
+            {
+                "name": "misc/clock.cuckoo",
+                "category": "sound"
+            }
+        ]
+    },
+    "clock.ticking": {
+        "sounds": [
+            {
+                "name": "misc/clock.ticking",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "coin": {
+        "sounds": [
+            {
+                "name": "misc/coin",
+                "category": "sound"
+            }
+        ]
+    },
+    "computer.beep": {
+        "sounds": [
+            {
+                "name": "misc/computer.beep",
+                "category": "sound"
+            }
+        ]
+    },
+    "computer.button": {
+        "sounds": [
+            {
+                "name": "misc/computer.button",
+                "category": "sound"
+            }
+        ]
+    },
+    "computer.gain": {
+        "sounds": [
+            {
+                "name": "misc/computer.gain",
+                "category": "sound"
+            }
+        ]
+    },
+    "computer.gameover": {
+        "sounds": [
+            {
+                "name": "misc/computer.gameover",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "computer.slotmachine": {
+        "sounds": [
+            {
+                "name": "misc/computer.slotmachine",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "computer.virus": {
+        "sounds": [
+            {
+                "name": "misc/computer.virus",
+                "category": "sound"
+            }
+        ]
+    },
+    "computer.wrong": {
+        "sounds": [
+            {
+                "name": "misc/computer.wrong",
+                "category": "sound"
+            }
+        ]
+    },
+    "cymbalcrash": {
+        "sounds": [
+            {
+                "name": "misc/cymbalcrash",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "d20": {
+        "sounds": [
+            {
+                "name": "misc/d20",
+                "category": "sound"
+            }
+        ]
+    },
+    "enterpipe": {
+        "sounds": [
+            {
+                "name": "misc/enterpipe",
+                "category": "sound"
+            }
+        ]
+    },
+    "fireworks": {
+        "sounds": [
+            {
+                "name": "misc/fireworks",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "gavel": {
+        "sounds": [
+            {
+                "name": "misc/gavel",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "homerun": {
+        "sounds": [
+            {
+                "name": "misc/homerun",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "horn.boat": {
+        "sounds": [
+            {
+                "name": "misc/horn.boat",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "horn.train": {
+        "sounds": [
+            {
+                "name": "misc/horn.train",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "kaching": {
+        "sounds": [
+            {
+                "name": "misc/kaching",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "pokeball": {
+        "sounds": [
+            {
+                "name": "misc/pokeball",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "radiobeep": {
+        "sounds": [
+            {
+                "name": "misc/radiobeep",
+                "category": "sound"
+            }
+        ]
+    },
+    "shipsink": {
+        "sounds": [
+            {
+                "name": "misc/shipsink",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "smack": {
+        "sounds": [
+            {
+                "name": "misc/smack",
+                "category": "sound"
+            }
+        ]
+    },
+    "stretch": {
+        "sounds": [
+            {
+                "name": "misc/stretch",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "swing": {
+        "sounds": [
+            {
+                "name": "misc/swing",
+                "category": "sound"
+            }
+        ]
+    },
+    "toysqueak": {
+        "sounds": [
+            {
+                "name": "misc/toysqueak",
+                "category": "sound"
+            }
+        ]
+    },
+    "twinkle": {
+        "sounds": [
+            {
+                "name": "misc/twinkle",
+                "category": "sound"
+            }
+        ]
+    },
+    "whistle": {
+        "sounds": [
+            {
+                "name": "misc/whistle1",
+                "category": "sound"
+            },
+			{
+                "name": "misc/whistle2",
+                "category": "sound"
+            },
+			{
+                "name": "misc/whistle3",
+                "category": "sound"
+            },
+			{
+                "name": "misc/whistle4",
+                "category": "sound"
+            }
+        ]
+    },
+    "wing.flap": {
+        "sounds": [
+            {
+                "name": "misc/wing.flap1",
+                "category": "sound"
+            },
+			{
+                "name": "misc/wing.flap2",
+                "category": "sound"
+            },
+			{
+                "name": "misc/wing.flap3",
+                "category": "sound"
+            },
+			{
+                "name": "misc/wing.flap4",
+                "category": "sound"
+            }
+        ]
+    },
+    "largeplayerboat": {
+        "sounds": [
+            {
+                "name": "msc/largeplayerboat",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "banjo_a": {
+        "sounds": [
+            {
+                "name": "musical/banjo_a",
+                "category": "sound"
+            }
+        ]
+    },
+    "banjo_b": {
+        "sounds": [
+            {
+                "name": "musical/banjo_b",
+                "category": "sound"
+            }
+        ]
+    },
+    "banjo_c": {
+        "sounds": [
+            {
+                "name": "musical/banjo_c",
+                "category": "sound"
+            }
+        ]
+    },
+    "banjo_d": {
+        "sounds": [
+            {
+                "name": "musical/banjo_d",
+                "category": "sound"
+            }
+        ]
+    },
+    "bass_a": {
+        "sounds": [
+            {
+                "name": "musical/bass_a",
+                "category": "sound"
+            }
+        ]
+    },
+    "bass_b": {
+        "sounds": [
+            {
+                "name": "musical/bass_b",
+                "category": "sound"
+            }
+        ]
+    },
+    "bass_c": {
+        "sounds": [
+            {
+                "name": "musical/bass_c",
+                "category": "sound"
+            }
+        ]
+    },
+    "bass_d": {
+        "sounds": [
+            {
+                "name": "musical/bass_d",
+                "category": "sound"
+            }
+        ]
+    },
+    "clap": {
+        "sounds": [
+            {
+                "name": "musical/clap",
+                "category": "sound"
+            }
+        ]
+    },
+    "clarinet_a": {
+        "sounds": [
+            {
+                "name": "musical/clarinet_a",
+                "category": "sound"
+            }
+        ]
+    },
+    "clarinet_b": {
+        "sounds": [
+            {
+                "name": "musical/clarinet_b",
+                "category": "sound"
+            }
+        ]
+    },
+    "clarinet_c": {
+        "sounds": [
+            {
+                "name": "musical/clarinet_c",
+                "category": "sound"
+            }
+        ]
+    },
+    "clarinet_d": {
+        "sounds": [
+            {
+                "name": "musical/clarinet_d",
+                "category": "sound"
+            }
+        ]
+    },
+    "clave": {
+        "sounds": [
+            {
+                "name": "musical/clave",
+                "category": "sound"
+            }
+        ]
+    },
+    "conga_hi": {
+        "sounds": [
+            {
+                "name": "musical/conga_hi",
+                "category": "sound"
+            }
+        ]
+    },
+    "conga_low": {
+        "sounds": [
+            {
+                "name": "musical/conga_low",
+                "category": "sound"
+            }
+        ]
+    },
+    "conga_mid": {
+        "sounds": [
+            {
+                "name": "musical/conga_mid",
+                "category": "sound"
+            }
+        ]
+    },
+    "cowbell": {
+        "sounds": [
+            {
+                "name": "musical/cowbell",
+                "category": "sound"
+            }
+        ]
+    },
+    "cymbal": {
+        "sounds": [
+            {
+                "name": "musical/cymbal",
+                "category": "sound"
+            }
+        ]
+    },
+    "guitar_a": {
+        "sounds": [
+            {
+                "name": "musical/guitar_a",
+                "category": "sound"
+            }
+        ]
+    },
+    "guitar_b": {
+        "sounds": [
+            {
+                "name": "musical/guitar_b",
+                "category": "sound"
+            }
+        ]
+    },
+    "guitar_c": {
+        "sounds": [
+            {
+                "name": "musical/guitar_c",
+                "category": "sound"
+            }
+        ]
+    },
+    "guitar_d": {
+        "sounds": [
+            {
+                "name": "musical/guitar_d",
+                "category": "sound"
+            }
+        ]
+    },
+    "hihat_closed": {
+        "sounds": [
+            {
+                "name": "musical/hihat_closed",
+                "category": "sound"
+            }
+        ]
+    },
+    "hihat_open": {
+        "sounds": [
+            {
+                "name": "musical/hihat_open",
+                "category": "sound"
+            }
+        ]
+    },
+    "horn_a": {
+        "sounds": [
+            {
+                "name": "musical/horn_a",
+                "category": "sound"
+            }
+        ]
+    },
+    "horn_b": {
+        "sounds": [
+            {
+                "name": "musical/horn_b",
+                "category": "sound"
+            }
+        ]
+    },
+    "horn_c": {
+        "sounds": [
+            {
+                "name": "musical/horn_c",
+                "category": "sound"
+            }
+        ]
+    },
+    "horn_d": {
+        "sounds": [
+            {
+                "name": "musical/horn_d",
+                "category": "sound"
+            }
+        ]
+    },
+    "kick": {
+        "sounds": [
+            {
+                "name": "musical/kick",
+                "category": "sound"
+            }
+        ]
+    },
+    "maracas": {
+        "sounds": [
+            {
+                "name": "musical/maracas",
+                "category": "sound"
+            }
+        ]
+    },
+    "musical.alienscome": {
+        "sounds": [
+            {
+                "name": "musical/musical.alienscome",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "musical.aliensleave": {
+        "sounds": [
+            {
+                "name": "musical/musical.aliensleave",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "musical.badguy": {
+        "sounds": [
+            {
+                "name": "musical/musical.badguy",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "musical.deadlystare": {
+        "sounds": [
+            {
+                "name": "musical/musical.deadlystare",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "musical.drum": {
+        "sounds": [
+            {
+                "name": "musical/musical.drum1",
+                "category": "sound"
+            },
+			{
+                "name": "musical/musical.drum2",
+                "category": "sound"
+            }
+        ]
+    },
+    "musical.energycrystal": {
+        "sounds": [
+            {
+                "name": "musical/musical.energycrystal",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "musical.getitem": {
+        "sounds": [
+            {
+                "name": "musical/musical.getitem",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "musical.interesting": {
+        "sounds": [
+            {
+                "name": "musical/musical.interesting",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "musical.letslearn": {
+        "sounds": [
+            {
+                "name": "musical/musical.letslearn",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "musical.metalgear": {
+        "sounds": [
+            {
+                "name": "musical/musical.metalgear",
+                "category": "sound"
+            }
+        ]
+    },
+    "musical.nextquestion": {
+        "sounds": [
+            {
+                "name": "musical/musical.nextquestion",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "musical.noire": {
+        "sounds": [
+            {
+                "name": "musical/musical.noire",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "musical.ohno": {
+        "sounds": [
+            {
+                "name": "musical/musical.ohno",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "musical.piftp": {
+        "sounds": [
+            {
+                "name": "musical/musical.piftp",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "musical.sadtrumpet": {
+        "sounds": [
+            {
+                "name": "musical/musical.sadtrumpet",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "musical.shook": {
+        "sounds": [
+            {
+                "name": "musical/musical.shook",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "musical.veryinteresting": {
+        "sounds": [
+            {
+                "name": "musical/musical.veryinteresting",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "musical.wedidit": {
+        "sounds": [
+            {
+                "name": "musical/musical.wedidit",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "musical.whoosh": {
+        "sounds": [
+            {
+                "name": "musical/musical.whoosh",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "organ_a": {
+        "sounds": [
+            {
+                "name": "musical/organ_a",
+                "category": "sound"
+            }
+        ]
+    },
+    "organ_b": {
+        "sounds": [
+            {
+                "name": "musical/organ_b",
+                "category": "sound"
+            }
+        ]
+    },
+    "organ_c": {
+        "sounds": [
+            {
+                "name": "musical/organ_c",
+                "category": "sound"
+            }
+        ]
+    },
+    "organ_d": {
+        "sounds": [
+            {
+                "name": "musical/organ_d",
+                "category": "sound"
+            }
+        ]
+    },
+    "piano_a": {
+        "sounds": [
+            {
+                "name": "musical/piano_a",
+                "category": "sound"
+            }
+        ]
+    },
+    "piano_b": {
+        "sounds": [
+            {
+                "name": "musical/piano_b",
+                "category": "sound"
+            }
+        ]
+    },
+    "piano_c": {
+        "sounds": [
+            {
+                "name": "musical/piano_c",
+                "category": "sound"
+            }
+        ]
+    },
+    "piano_d": {
+        "sounds": [
+            {
+                "name": "musical/piano_d",
+                "category": "sound"
+            }
+        ]
+    },
+    "rim": {
+        "sounds": [
+            {
+                "name": "musical/rim",
+                "category": "sound"
+            }
+        ]
+    },
+    "snare": {
+        "sounds": [
+            {
+                "name": "musical/snare",
+                "category": "sound"
+            }
+        ]
+    },
+    "tom_hi": {
+        "sounds": [
+            {
+                "name": "musical/tom_hi",
+                "category": "sound"
+            }
+        ]
+    },
+    "tom_low": {
+        "sounds": [
+            {
+                "name": "musical/tom_low",
+                "category": "sound"
+            }
+        ]
+    },
+    "tom_mid": {
+        "sounds": [
+            {
+                "name": "musical/tom_mid",
+                "category": "sound"
+            }
+        ]
+    },
+    "trumpet_a": {
+        "sounds": [
+            {
+                "name": "musical/trumpet_a",
+                "category": "sound"
+            }
+        ]
+    },
+    "trumpet_b": {
+        "sounds": [
+            {
+                "name": "musical/trumpet_b",
+                "category": "sound"
+            }
+        ]
+    },
+    "trumpet_c": {
+        "sounds": [
+            {
+                "name": "musical/trumpet_c",
+                "category": "sound"
+            }
+        ]
+    },
+    "trumpet_d": {
+        "sounds": [
+            {
+                "name": "musical/trumpet_d",
+                "category": "sound"
+            }
+        ]
+    },
+    "violin_a": {
+        "sounds": [
+            {
+                "name": "musical/violin_a",
+                "category": "sound"
+            }
+        ]
+    },
+    "violin_b": {
+        "sounds": [
+            {
+                "name": "musical/violin_b",
+                "category": "sound"
+            }
+        ]
+    },
+    "violin_c": {
+        "sounds": [
+            {
+                "name": "musical/violin_c",
+                "category": "sound"
+            }
+        ]
+    },
+    "violin_d": {
+        "sounds": [
+            {
+                "name": "musical/violin_d",
+                "category": "sound"
+            }
+        ]
+    },
+    "arcane.bigblast": {
+        "sounds": [
+            {
+                "name": "spells/arcane.bigblast",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "arcane.blast": {
+        "sounds": [
+            {
+                "name": "spells/arcane.blast",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "arcane.blob": {
+        "sounds": [
+            {
+                "name": "spells/arcane.blob",
+                "category": "sound"
+            }
+        ]
+    },
+    "arcane.blobexplosion": {
+        "sounds": [
+            {
+                "name": "spells/arcane.blobexplosion",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "arcane.blobhit": {
+        "sounds": [
+            {
+                "name": "spells/arcane.blobhit",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "arcane.hit": {
+        "sounds": [
+            {
+                "name": "spells/arcane.hit",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "arcane.mesmerize": {
+        "sounds": [
+            {
+                "name": "spells/arcane.mesmerize",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "arcane.mindcontrol": {
+        "sounds": [
+            {
+                "name": "spells/arcane.mindcontrol",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "arcane.powerdown": {
+        "sounds": [
+            {
+                "name": "spells/arcane.powerdown",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "arcane.powerloop": {
+        "sounds": [
+            {
+                "name": "spells/arcane.powerloop",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "arcane.resist": {
+        "sounds": [
+            {
+                "name": "spells/arcane.resist",
+                "category": "sound"
+            }
+        ]
+    },
+    "arcane.shock": {
+        "sounds": [
+            {
+                "name": "spells/arcane.shock",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "arcane.summon": {
+        "sounds": [
+            {
+                "name": "spells/arcane.summon",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "arcane.time": {
+        "sounds": [
+            {
+                "name": "spells/arcane.time",
+                "category": "sound"
+            }
+        ]
+    },
+    "arcane.tinkle": {
+        "sounds": [
+            {
+                "name": "spells/arcane.tinkle",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "arcane.wormhole": {
+        "sounds": [
+            {
+                "name": "spells/arcane.wormhole",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "cute.appear": {
+        "sounds": [
+            {
+                "name": "spells/cute.appear",
+                "category": "sound"
+            }
+        ]
+    },
+    "cute.cast": {
+        "sounds": [
+            {
+                "name": "spells/cute.cast",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "cute.charge": {
+        "sounds": [
+            {
+                "name": "spells/cute.charge",
+                "category": "sound"
+            }
+        ]
+    },
+    "cute.explode": {
+        "sounds": [
+            {
+                "name": "spells/cute.explode",
+                "category": "sound"
+            }
+        ]
+    },
+    "cute.fall": {
+        "sounds": [
+            {
+                "name": "spells/cute.fall",
+                "category": "sound"
+            }
+        ]
+    },
+    "cute.get": {
+        "sounds": [
+            {
+                "name": "spells/cute.get",
+                "category": "sound"
+            }
+        ]
+    },
+    "cute.getbig": {
+        "sounds": [
+            {
+                "name": "spells/cute.getbig",
+                "category": "sound"
+            }
+        ]
+    },
+    "cute.getbiggest": {
+        "sounds": [
+            {
+                "name": "spells/cute.getbiggest",
+                "category": "sound"
+            }
+        ]
+    },
+    "cute.hit": {
+        "sounds": [
+            {
+                "name": "spells/cute.hit",
+                "category": "sound"
+            }
+        ]
+    },
+    "cute.levelup": {
+        "sounds": [
+            {
+                "name": "spells/cute.levelup",
+                "category": "sound"
+            }
+        ]
+    },
+    "cute.reveal": {
+        "sounds": [
+            {
+                "name": "spells/cute.reveal",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "cute.run": {
+        "sounds": [
+            {
+                "name": "spells/cute.run",
+                "category": "sound"
+            }
+        ]
+    },
+    "cute.summon": {
+        "sounds": [
+            {
+                "name": "spells/cute.summon",
+                "category": "sound"
+            }
+        ]
+    },
+    "cute.transformation": {
+        "sounds": [
+            {
+                "name": "spells/cute.transformation",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "cute.wink": {
+        "sounds": [
+            {
+                "name": "spells/cute.wink",
+                "category": "sound"
+            }
+        ]
+    },
+    "dark.appear": {
+        "sounds": [
+            {
+                "name": "spells/dark.appear",
+                "category": "sound"
+            }
+        ]
+    },
+    "dark.banshee1": {
+        "sounds": [
+            {
+                "name": "spells/dark.banshee1",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "spells/dark.banshee2",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "spells/dark.banshee3",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "spells/dark.banshee4",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "dark.blink": {
+        "sounds": [
+            {
+                "name": "spells/dark.blink",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "dark.cast": {
+        "sounds": [
+            {
+                "name": "spells/dark.cast",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "dark.charge": {
+        "sounds": [
+            {
+                "name": "spells/dark.charge",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "dark.curseexplode": {
+        "sounds": [
+            {
+                "name": "spells/dark.curseexplode",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "dark.demontalk1": {
+        "sounds": [
+            {
+                "name": "spells/dark.demontalk1",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "spells/dark.demontalk2",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "spells/dark.demontalk3",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "spells/dark.demontalk4",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "dark.detect": {
+        "sounds": [
+            {
+                "name": "spells/dark.detect",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "dark.hit": {
+        "sounds": [
+            {
+                "name": "spells/dark.hit",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "dark.mindcontrol": {
+        "sounds": [
+            {
+                "name": "spells/dark.mindcontrol",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "dark.misfire": {
+        "sounds": [
+            {
+                "name": "spells/dark.misfire",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "dark.powerdown": {
+        "sounds": [
+            {
+                "name": "spells/dark.powerdown",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "dark.powersource": {
+        "sounds": [
+            {
+                "name": "spells/dark.powersource",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "dark.teleport": {
+        "sounds": [
+            {
+                "name": "spells/dark.teleport",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "dark.vanish": {
+        "sounds": [
+            {
+                "name": "spells/dark.vanish",
+                "category": "sound"
+            }
+        ]
+    },
+    "earth.blast": {
+        "sounds": [
+            {
+                "name": "spells/earth.blast",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "earth.cast": {
+        "sounds": [
+            {
+                "name": "spells/earth.cast",
+                "category": "sound"
+            },
+			{
+                "name": "spells/earth.cast2",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "spells/earth.cast3",
+                "category": "sound"
+            }
+        ]
+    },
+    "earth.gather": {
+        "sounds": [
+            {
+                "name": "spells/earth.gather",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "spells/earth.gather2",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "spells/earth.gather3",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "earth.hit": {
+        "sounds": [
+            {
+                "name": "spells/earth.hit",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "spells/earth.hit2",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "spells/earth.hit3",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "earth.metalland": {
+        "sounds": [
+            {
+                "name": "spells/earth.metalland",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "earth.powerdown": {
+        "sounds": [
+            {
+                "name": "spells/earth.powerdown",
+                "category": "sound"
+            }
+        ]
+    },
+    "earth.prepare": {
+        "sounds": [
+            {
+                "name": "spells/earth.prepare",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "earth.shield": {
+        "sounds": [
+            {
+                "name": "spells/earth.shield",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "fire.blast": {
+        "sounds": [
+            {
+                "name": "spells/fire.blast",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "fire.blazeloop": {
+        "sounds": [
+            {
+                "name": "spells/fire.blazeloop",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "fire.bonloop": {
+        "sounds": [
+            {
+                "name": "spells/fire.bonloop",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "fire.camploop": {
+        "sounds": [
+            {
+                "name": "spells/fire.camploop",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "fire.cast": {
+        "sounds": [
+            {
+                "name": "spells/fire.cast",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "spells/fire.cast2",
+                "category": "sound"
+            },
+			{
+                "name": "spells/fire.cast3",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "fire.fireball": {
+        "sounds": [
+            {
+                "name": "spells/fire.fireball",
+                "category": "sound"
+            }
+        ]
+    },
+    "fire.gather": {
+        "sounds": [
+            {
+                "name": "spells/fire.gather",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "fire.hit": {
+        "sounds": [
+            {
+                "name": "spells/fire.hit1",
+                "category": "sound"
+            },
+			{
+                "name": "spells/fire.hit2",
+                "category": "sound"
+            },
+			{
+                "name": "spells/fire.hit3",
+                "category": "sound"
+            },
+			{
+                "name": "spells/fire.hit4",
+                "category": "sound"
+            }
+        ]
+    },
+    "fire.ignite": {
+        "sounds": [
+            {
+                "name": "spells/fire.ignite",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "fire.release": {
+        "sounds": [
+            {
+                "name": "spells/fire.release",
+                "category": "sound"
+            }
+        ]
+    },
+    "fire.shield": {
+        "sounds": [
+            {
+                "name": "spells/fire.shield",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "fire.summon": {
+        "sounds": [
+            {
+                "name": "spells/fire.summon",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "fire.throw": {
+        "sounds": [
+            {
+                "name": "spells/fire.throw",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "fire.throwfast": {
+        "sounds": [
+            {
+                "name": "spells/fire.throwfast",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "ice.blast": {
+        "sounds": [
+            {
+                "name": "spells/ice.blast",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "ice.cast": {
+        "sounds": [
+            {
+                "name": "spells/ice.cast",
+                "category": "sound"
+            }
+        ]
+    },
+    "ice.gather": {
+        "sounds": [
+            {
+                "name": "spells/ice.gather",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "ice.hit": {
+        "sounds": [
+            {
+                "name": "spells/ice.hit1",
+                "category": "sound"
+            },
+			{
+                "name": "spells/ice.hit2",
+                "category": "sound"
+            },
+			{
+                "name": "spells/ice.hit3",
+                "category": "sound"
+            },
+			{
+                "name": "spells/ice.hit4",
+                "category": "sound"
+            }
+        ]
+    },
+    "icecast": {
+        "sounds": [
+            {
+                "name": "spells/icecast",
+                "category": "sound"
+            }
+        ]
+    },
+    "icegath": {
+        "sounds": [
+            {
+                "name": "spells/icegath",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "icehit": {
+        "sounds": [
+            {
+                "name": "spells/icehit",
+                "category": "sound"
+            }
+        ]
+    },
+    "inst_tubebell_c3": {
+        "sounds": [
+            {
+                "name": "spells/inst_tubebell_c3",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "inst_tubebell_c4": {
+        "sounds": [
+            {
+                "name": "spells/inst_tubebell_c4",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "inst_tubebell_f3": {
+        "sounds": [
+            {
+                "name": "spells/inst_tubebell_f3",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "inst_tubebell_f4": {
+        "sounds": [
+            {
+                "name": "spells/inst_tubebell_f4",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "kick_long_use_01": {
+        "sounds": [
+            {
+                "name": "spells/kick_long_use_01",
+                "category": "sound"
+            }
+        ]
+    },
+    "kick.long": {
+        "sounds": [
+            {
+                "name": "spells/kick_long_use_02",
+                "category": "sound"
+            },
+			{
+                "name": "spells/kick_long_use_03",
+                "category": "sound"
+            },
+			{
+                "name": "spells/kick_long_use_04",
+                "category": "sound"
+            }
+        ]
+    },
+    "kick.short": {
+        "sounds": [
+			{
+                "name": "spells/kick_short_use_01",
+                "category": "sound"
+            },
+			{
+                "name": "spells/kick_short_use_02",
+                "category": "sound"
+            },
+			{
+                "name": "spells/kick_short_use_03",
+                "category": "sound"
+            },
+			{
+                "name": "spells/kick_short_use_04",
+                "category": "sound"
+            }
+        ]
+    },
+    "lakewave": {
+        "sounds": [
+            {
+                "name": "spells/lakewave1",
+                "category": "sound"
+            },
+			{
+                "name": "spells/lakewave2",
+                "category": "sound"
+            },
+			{
+                "name": "spells/lakewave3",
+                "category": "sound"
+            },
+			{
+                "name": "spells/lakewave4",
+                "category": "sound"
+            }
+        ]
+    },
+    "lavaflow": {
+        "sounds": [
+            {
+                "name": "spells/lavaflow",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "lavapit": {
+        "sounds": [
+            {
+                "name": "spells/lavapit01",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "spells/lavapit02",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "spells/lavapit03",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "spells/lavapit04",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "light.bigblast": {
+        "sounds": [
+            {
+                "name": "spells/light.bigblast",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "light.buff": {
+        "sounds": [
+            {
+                "name": "spells/light.buff",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "spells/light.buff2",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "light.charge": {
+        "sounds": [
+            {
+                "name": "spells/light.charge",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "light.gather": {
+        "sounds": [
+            {
+                "name": "spells/light.gather",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "light.heal": {
+        "sounds": [
+            {
+                "name": "spells/light.heal",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "spells/light.heal2",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "light.powerdown": {
+        "sounds": [
+            {
+                "name": "spells/light.powerdown",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "light.powerup": {
+        "sounds": [
+            {
+                "name": "spells/light.powerup",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "light.shield": {
+        "sounds": [
+            {
+                "name": "spells/light.shield",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "light.summon": {
+        "sounds": [
+            {
+                "name": "spells/light.summon",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "light.teleport": {
+        "sounds": [
+            {
+                "name": "spells/light.teleport",
+                "category": "sound"
+            }
+        ]
+    },
+    "poison.cast": {
+        "sounds": [
+            {
+                "name": "spells/poison.cast",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "poison.hit1": {
+        "sounds": [
+            {
+                "name": "spells/poison.hit1",
+                "category": "sound"
+            },
+			{
+                "name": "spells/poison.hit2",
+                "category": "sound"
+            },
+			{
+                "name": "spells/poison.hit3",
+                "category": "sound"
+            },
+			{
+                "name": "spells/poison.hit4",
+                "category": "sound"
+            }
+        ]
+    },
+    "thunder.blast": {
+        "sounds": [
+            {
+                "name": "spells/thunder.blast",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "thunder.cast": {
+        "sounds": [
+            {
+                "name": "spells/thunder.cast",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "spells/thunder.cast2",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "thunder.gather": {
+        "sounds": [
+            {
+                "name": "spells/thunder.gather",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "spells/thunder.gather2",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "thunder.hit": {
+        "sounds": [
+            {
+                "name": "spells/thunder.hit",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "thunder.shield": {
+        "sounds": [
+            {
+                "name": "spells/thunder.shield",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "thunder.teleport": {
+        "sounds": [
+            {
+                "name": "spells/thunder.teleport",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "wind.bell": {
+        "sounds": [
+            {
+                "name": "spells/wind.bell",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "wind.blast": {
+        "sounds": [
+            {
+                "name": "spells/wind.blast",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "wind.blink": {
+        "sounds": [
+            {
+                "name": "spells/wind.blink",
+                "category": "sound"
+            }
+        ]
+    },
+    "wind.buff": {
+        "sounds": [
+            {
+                "name": "spells/wind.buff",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "wind.cast": {
+        "sounds": [
+            {
+                "name": "spells/wind.cast",
+                "category": "sound"
+            }
+        ]
+    },
+    "wind.charge": {
+        "sounds": [
+            {
+                "name": "spells/wind.charge",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "wind.echo": {
+        "sounds": [
+            {
+                "name": "spells/wind.echo",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "wind.gather": {
+        "sounds": [
+            {
+                "name": "spells/wind.gather",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "spells/wind.gather2",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "wind.hit": {
+        "sounds": [
+            {
+                "name": "spells/wind.hit",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "spells/wind.hit2",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "spells/wind.hit3",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "wind.implosion": {
+        "sounds": [
+            {
+                "name": "spells/wind.implosion",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "wind.prepare": {
+        "sounds": [
+            {
+                "name": "spells/wind.prepare",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "wind.release": {
+        "sounds": [
+            {
+                "name": "spells/wind.release",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "wind.teleport": {
+        "sounds": [
+            {
+                "name": "spells/wind.teleport",
+                "category": "sound"
+            }
+        ]
+    },
+    "axe.wood": {
+        "sounds": [
+            {
+                "name": "tool/axe.wood1",
+                "category": "sound"
+            },
+			{
+                "name": "tool/axe.wood2",
+                "category": "sound"
+            },
+			{
+                "name": "tool/axe.wood3",
+                "category": "sound"
+            },
+			{
+                "name": "tool/axe.wood4",
+                "category": "sound"
+            }
+        ]
+    },
+    "camera.flash": {
+        "sounds": [
+            {
+                "name": "tool/camera.flash",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "camera.flick": {
+        "sounds": [
+            {
+                "name": "tool/camera.flick",
+                "category": "sound"
+            }
+        ]
+    },
+    "clever.chop": {
+        "sounds": [
+            {
+                "name": "tool/clever.chop1",
+                "category": "sound"
+            },
+			{
+                "name": "tool/clever.chop2",
+                "category": "sound"
+            },
+			{
+                "name": "tool/clever.chop3",
+                "category": "sound"
+            },
+			{
+                "name": "tool/clever.chop4",
+                "category": "sound"
+            }
+        ]
+    },
+    "clever.slice": {
+        "sounds": [
+            {
+                "name": "tool/clever.slice1",
+                "category": "sound"
+            },
+			{
+                "name": "tool/clever.slice2",
+                "category": "sound"
+            },
+			{
+                "name": "tool/clever.slice3",
+                "category": "sound"
+            },
+			{
+                "name": "tool/clever.slice4",
+                "category": "sound"
+            }
+        ]
+    },
+    "cloth.rustle": {
+        "sounds": [
+            {
+                "name": "tool/cloth.rustle1",
+                "category": "sound"
+            },
+			{
+                "name": "tool/cloth.rustle2",
+                "category": "sound"
+            },
+			{
+                "name": "tool/cloth.rustle3",
+                "category": "sound"
+            }
+        ]
+    },
+    "hammer.metal": {
+        "sounds": [
+            {
+                "name": "tool/hammer.metal",
+                "category": "sound"
+            },
+			{
+                "name": "tool/hammer.metal2",
+                "category": "sound"
+            }
+        ]
+    },
+    "hammer.wood": {
+        "sounds": [
+            {
+                "name": "tool/hammer.wood",
+                "category": "sound"
+            }
+        ]
+    },
+    "hammer.hitsmetal": {
+        "sounds": [
+            {
+                "name": "tool/hammer_hitsmetal01",
+                "category": "sound"
+            },
+			{
+                "name": "tool/hammer_hitsmetal02",
+                "category": "sound"
+            },
+			{
+                "name": "tool/hammer_hitsmetal03",
+                "category": "sound"
+            },
+			{
+                "name": "tool/hammer_hitsmetal04",
+                "category": "sound"
+            }
+        ]
+    },
+    "pickaxe.mine": {
+        "sounds": [
+            {
+                "name": "tool/pickaxe.mine1",
+                "category": "sound"
+            },
+			{
+                "name": "tool/pickaxe.mine2",
+                "category": "sound"
+            },
+			{
+                "name": "tool/pickaxe.mine3",
+                "category": "sound"
+            },
+			{
+                "name": "tool/pickaxe.mine4",
+                "category": "sound"
+            }
+        ]
+    },
+    "vampire.batform.off": {
+        "sounds": [
+            {
+                "name": "vampire/vampire.batform.off",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "vampire.batform.on": {
+        "sounds": [
+            {
+                "name": "vampire/vampire.batform.on",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "vampire.dagger": {
+        "sounds": [
+            {
+                "name": "vampire/vampire.dagger1",
+                "category": "sound"
+            },
+			{
+                "name": "vampire/vampire.dagger2",
+                "category": "sound"
+            },
+			{
+                "name": "vampire/vampire.dagger3",
+                "category": "sound"
+            },
+			{
+                "name": "vampire/vampire.dagger4",
+                "category": "sound"
+            }
+        ]
+    },
+    "vampire.drain": {
+        "sounds": [
+            {
+                "name": "vampire/vampire.drain",
+                "category": "sound"
+            }
+        ]
+    },
+    "vampire.mesmerized": {
+        "sounds": [
+            {
+                "name": "vampire/vampire.mesmerized",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "vampire.shadowballcast": {
+        "sounds": [
+            {
+                "name": "vampire/vampire.shadowballcast",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "vampire.shadowballfire": {
+        "sounds": [
+            {
+                "name": "vampire/vampire.shadowballfire",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "vampire.shadowballloop": {
+        "sounds": [
+            {
+                "name": "vampire/vampire.shadowballloop",
+                "category": "sound"
+            }
+        ]
+    },
+    "vampire.stab": {
+        "sounds": [
+            {
+                "name": "vampire/vampire.stab1",
+                "category": "sound"
+            },
+			{
+                "name": "vampire/vampire.stab2",
+                "category": "sound"
+            },
+			{
+                "name": "vampire/vampire.stab3",
+                "category": "sound"
+            },
+			{
+                "name": "vampire/vampire.stab4",
+                "category": "sound"
+            }
+        ]
+    },
+    "vampire.ticktock": {
+        "sounds": [
+            {
+                "name": "vampire/vampire.ticktock",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "wizard.blink": {
+        "sounds": [
+            {
+                "name": "wizard/wizard.blink",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "wizard.bolt": {
+        "sounds": [
+            {
+                "name": "wizard/wizard.bolt1",
+                "category": "sound"
+            },
+			{
+                "name": "wizard/wizard.bolt2",
+                "category": "sound"
+            },
+			{
+                "name": "wizard/wizard.bolt3",
+                "category": "sound"
+            }
+        ]
+    },
+    "axe.grab": {
+        "sounds": [
+            {
+                "name": "wpn/axe.grab",
+                "category": "sound"
+            }
+        ]
+    },
+    "axe.hit": {
+        "sounds": [
+            {
+                "name": "wpn/axe.hit1",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/axe.hit2",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/axe.hit3",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/axe.hit4",
+                "category": "sound"
+            }
+        ]
+    },
+    "axe.store": {
+        "sounds": [
+            {
+                "name": "wpn/axe.store",
+                "category": "sound"
+            }
+        ]
+    },
+    "axe.swing": {
+        "sounds": [
+            {
+                "name": "wpn/axe.swing1",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/axe.swing2",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/axe.swing3",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/axe.swing4",
+                "category": "sound"
+            }
+        ]
+    },
+    "bomb.explode": {
+        "sounds": [
+            {
+                "name": "wpn/bomb.explode",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "bonked": {
+        "sounds": [
+            {
+                "name": "wpn/bonked",
+                "category": "sound"
+            }
+        ]
+    },
+    "bow.bunnyhit": {
+        "sounds": [
+            {
+                "name": "wpn/bow.bunnyhit",
+                "category": "sound"
+            }
+        ]
+    },
+    "bow.draw": {
+        "sounds": [
+            {
+                "name": "wpn/bow.draw",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "bow.fire": {
+        "sounds": [
+            {
+                "name": "wpn/bow.fire",
+                "category": "sound"
+            }
+        ]
+    },
+    "bow.hit": {
+        "sounds": [
+            {
+                "name": "wpn/bow.hit1",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/bow.hit2",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/bow.hit3",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/bow.hit4",
+                "category": "sound"
+            }
+        ]
+    },
+    "bow.reload": {
+        "sounds": [
+            {
+                "name": "wpn/bow.reload",
+                "category": "sound"
+            }
+        ]
+    },
+    "bow.volley.hit": {
+        "sounds": [
+            {
+                "name": "wpn/bow.volley.hit1",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/bow.volley.hit2",
+                "category": "sound"
+            }
+        ]
+    },
+    "bow.volley": {
+        "sounds": [
+            {
+                "name": "wpn/bow.volley",
+                "category": "sound"
+            }
+        ]
+    },
+    "catapult.fire": {
+        "sounds": [
+            {
+                "name": "wpn/catapult.fire1",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "wpn/catapult.fire2",
+                "category": "sound",
+                "stream": true
+            },
+			{
+                "name": "wpn/catapult.fire3",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "club.swing": {
+        "sounds": [
+            {
+                "name": "wpn/club.swing",
+                "category": "sound"
+            }
+        ]
+    },
+    "crossbow.fire": {
+        "sounds": [
+            {
+                "name": "wpn/crossbow.fire1",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/crossbow.fire2",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/crossbow.fire3",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/crossbow.fire4",
+                "category": "sound"
+            }
+        ]
+    },
+    "crossbow.store": {
+        "sounds": [
+            {
+                "name": "wpn/crossbow.store",
+                "category": "sound"
+            }
+        ]
+    },
+    "dodge": {
+        "sounds": [
+            {
+                "name": "wpn/dodge1",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/dodge2",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/dodge3",
+                "category": "sound"
+            }
+        ]
+    },
+    "evade": {
+        "sounds": [
+            {
+                "name": "wpn/evade1",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/evade2",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/evade3",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/evade4",
+                "category": "sound"
+            }
+        ]
+    },
+    "explosion": {
+        "sounds": [
+            {
+                "name": "wpn/explosion",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "flail.swing": {
+        "sounds": [
+            {
+                "name": "wpn/flail.swing1",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/flail.swing2",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/flail.swing3",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/flail.swing4",
+                "category": "sound"
+            }
+        ]
+    },
+    "ground.hit": {
+        "sounds": [
+            {
+                "name": "wpn/ground.hit",
+                "category": "sound"
+            }
+        ]
+    },
+    "ground.recover": {
+        "sounds": [
+            {
+                "name": "wpn/ground.recover",
+                "category": "sound"
+            }
+        ]
+    },
+    "gun.load": {
+        "sounds": [
+            {
+                "name": "wpn/gun.load",
+                "category": "sound"
+            }
+        ]
+    },
+    "kick.hit": {
+        "sounds": [
+            {
+                "name": "wpn/kick.hit",
+                "category": "sound"
+            }
+        ]
+    },
+    "kick.strong": {
+        "sounds": [
+            {
+                "name": "wpn/kick.strong",
+                "category": "sound"
+            }
+        ]
+    },
+    "leap": {
+        "sounds": [
+            {
+                "name": "wpn/leap",
+                "category": "sound"
+            }
+        ]
+    },
+    "lightsaber.swing": {
+        "sounds": [
+            {
+                "name": "wpn/lightsaber.swing1",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/lightsaber.swing2",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/lightsaber.swing3",
+                "category": "sound"
+            }
+        ]
+    },
+    "punch.heavy": {
+        "sounds": [
+            {
+                "name": "wpn/punch.heavy1",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/punch.heavy2",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/punch.heavy3",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/punch.heavy4",
+                "category": "sound"
+            }
+        ]
+    },
+    "punch.hit": {
+        "sounds": [
+            {
+                "name": "wpn/punch.hit",
+                "category": "sound"
+            }
+        ]
+    },
+    "punch.light": {
+        "sounds": [
+            {
+                "name": "wpn/punch.light1",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/punch.light2",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/punch.light3",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/punch.light4",
+                "category": "sound"
+            }
+        ]
+    },
+    "punch.smack": {
+        "sounds": [
+            {
+                "name": "wpn/punch.smack",
+                "category": "sound"
+            }
+        ]
+    },
+    "punch.strong": {
+        "sounds": [
+            {
+                "name": "wpn/punch.strong",
+                "category": "sound"
+            }
+        ]
+    },
+    "shield.blockheavy": {
+        "sounds": [
+            {
+                "name": "wpn/shield.blockheavy1",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/shield.blockheavy2",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/shield.blockheavy3",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/shield.blockheavy4",
+                "category": "sound"
+            }
+        ]
+    },
+    "shield.blocklight": {
+        "sounds": [
+            {
+                "name": "wpn/shield.blocklight1",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/shield.blocklight2",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/shield.blocklight3",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/shield.blocklight4",
+                "category": "sound"
+            }
+        ]
+    },
+    "shield.blockmetal": {
+        "sounds": [
+            {
+                "name": "wpn/shield.blockmetal",
+                "category": "sound"
+            }
+        ]
+    },
+    "squishybounce": {
+        "sounds": [
+            {
+                "name": "wpn/squishybounce",
+                "category": "sound"
+            }
+        ]
+    },
+    "squishybouncelow": {
+        "sounds": [
+            {
+                "name": "wpn/squishybouncelow",
+                "category": "sound"
+            }
+        ]
+    },
+    "staff.prepare": {
+        "sounds": [
+            {
+                "name": "wpn/staff.prepare",
+                "category": "sound"
+            }
+        ]
+    },
+    "staff.swing": {
+        "sounds": [
+            {
+                "name": "wpn/staff.swing1",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/staff.swing2",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/staff.swing3",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/staff.swing4",
+                "category": "sound"
+            }
+        ]
+    },
+    "sword.prepare": {
+        "sounds": [
+            {
+                "name": "wpn/sword.prepare",
+                "category": "sound"
+            }
+        ]
+    },
+    "sword.store": {
+        "sounds": [
+            {
+                "name": "wpn/sword.store",
+                "category": "sound"
+            }
+        ]
+    },
+    "sword.superswing": {
+        "sounds": [
+            {
+                "name": "wpn/sword.superswing",
+                "category": "sound"
+            }
+        ]
+    },
+    "sword.swing": {
+        "sounds": [
+            {
+                "name": "wpn/sword.swing1",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/sword.swing2",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/sword.swing3",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/sword.swing4",
+                "category": "sound"
+            }
+        ]
+    },
+    "weapon.crunchheavy": {
+        "sounds": [
+            {
+                "name": "wpn/weapon.crunchheavy1",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/weapon.crunchheavy2",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/weapon.crunchheavy3",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/weapon.crunchheavy4",
+                "category": "sound"
+            }
+        ]
+    },
+    "weapon.crunchlight": {
+        "sounds": [
+            {
+                "name": "wpn/weapon.crunchlight1",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/weapon.crunchlight2",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/weapon.crunchlight3",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/weapon.crunchlight4",
+                "category": "sound"
+            }
+        ]
+    },
+    "weapon.shimmer": {
+        "sounds": [
+            {
+                "name": "wpn/weapon.shimmer",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "weapon.supermove": {
+        "sounds": [
+            {
+                "name": "wpn/weapon.supermove",
+                "category": "sound"
+            }
+        ]
+    },
+    "whip.grab": {
+        "sounds": [
+            {
+                "name": "wpn/whip.grab",
+                "category": "sound",
+                "stream": true
+            }
+        ]
+    },
+    "whip.hit": {
+        "sounds": [
+            {
+                "name": "wpn/whip.hit1",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/whip.hit2",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/whip.hit3",
+                "category": "sound"
+            },
+			{
+                "name": "wpn/whip.hit4",
+                "category": "sound"
+            }
+        ]
+    },
+    "whip.prepare": {
+        "sounds": [
+            {
+                "name": "wpn/whip.prepare",
+                "category": "sound"
+            }
+        ]
+    },
+    "whip.store": {
+        "sounds": [
+            {
+                "name": "wpn/whip.store",
+                "category": "sound"
+            }
+        ]
+    }
+}
