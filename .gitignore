@@ -9,7 +9,6 @@ journeymap/*
 llibrary/*
 logs/*
 minecraftinstance.json
-!/*/options.txt
 optionsof.txt
 saves/*
 usercache.json
