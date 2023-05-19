@@ -1,0 +1,81 @@
+resourcePacks:["Wanderlust", "Nice Skys 1.12.2"]
+gamma:1.0
+bobView:false
+modelPart_cape:false
+autoJump:false
+tutorialStep:none
+pauseOnLostFocus:false
+mipmapLevels:0
+realmsNotifications:false
+key_key.saveToolbarActivator:0
+key_key.loadToolbarActivator:0
+key_key.advancements:0
+key_of.key.zoom:47
+key_keybind.baublesinventory:0
+key_Quest Log:0
+key_key.custommodel.selectmodel:0
+key_MoCreatures Dive:0
+key_MoCreatures GUI:0
+key_key.ebwizardry.next_spell:0
+key_key.ebwizardry.previous_spell:0
+key_key.mount.dismount:0
+key_key.mount.descend:42
+key_key.mount.ability:0
+key_key.mount.inventory:0
+key_key.index:0
+key_key.beastiary:0
+key_key.pets:0
+key_key.summoning:0
+key_key.minions:0
+key_CharacterScreen:88
+key_MPM 1:0
+key_MPM 2:0
+key_MPM 3:0
+key_MPM 4:0
+key_MPM 5:0
+key_MPM Camera:46
+key_key.wearablebackpacks.open:0
+key_keyBinding.debuging2:0
+key_key.astikorcarts.desc:19
+key_key.carry.desc:42
+key_key.zoomin:0
+key_key.centerzoom:0
+key_key.zoomout:0
+key_key.rollleft:0
+key_key.rollcenter:0
+key_key.rollright:0
+key_key.point:0
+key_key.startStop:0
+key_key.clearPoint:0
+key_key.macrokey.management.desc:0
+key_key.character.change:40
+key_WorldEdit Reference:0
+key_drpcore.keyBinding.openCrafting:0
+key_drpcore.keyBinding.placement_preview:0
+soundCategory_master:0.205298
+soundCategory_music:1.0
+soundCategory_record:1.0
+soundCategory_weather:1.0
+soundCategory_block:1.0
+soundCategory_hostile:1.0
+soundCategory_neutral:1.0
+soundCategory_player:1.0
+soundCategory_ambient:1.0
+soundCategory_voice:1.0
+key_key.journeymap.zoom_in:201
+key_key.journeymap.zoom_out:209
+key_key.journeymap.minimap_type:0
+key_key.journeymap.minimap_preset:0
+key_key.journeymap.create_waypoint:0
+key_key.journeymap.toggle_waypoints:0
+key_key.journeymap.fullscreen_create_waypoint:48
+key_key.journeymap.fullscreen_chat_position:46
+key_key.journeymap.map_toggle_alt:50
+key_key.journeymap.fullscreen_waypoints:0
+key_key.journeymap.minimap_toggle_alt:50:CONTROL
+key_key.journeymap.fullscreen_options:24
+key_key.journeymap.fullscreen.north:200
+key_key.journeymap.fullscreen.south:208
+key_key.journeymap.fullscreen.east:205
+key_key.journeymap.fullscreen.west:203
+key_Open GUI:0
