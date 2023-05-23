@@ -1,0 +1,45 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "shape=north_south": [
+            { "model": "normal_rail_flat" },
+            { "model": "normal_rail_flat_plank_1" },
+            { "model": "normal_rail_flat_plank_2" },
+            { "model": "normal_rail_flat_plank_3" },
+            { "model": "normal_rail_flat_plank_4" },
+            { "model": "normal_rail_flat_plank_5" }
+        ],
+        "shape=east_west": [
+            { "model": "normal_rail_flat", "y": 90 },
+            { "model": "normal_rail_flat_plank_1", "y": 90 },
+            { "model": "normal_rail_flat_plank_2", "y": 90 },
+            { "model": "normal_rail_flat_plank_3", "y": 90 },
+            { "model": "normal_rail_flat_plank_4", "y": 90 },
+            { "model": "normal_rail_flat_plank_5", "y": 90 }
+        ],
+        "shape=ascending_east": { "model": "normal_rail_raised_ne", "y": 90 },
+        "shape=ascending_west": { "model": "normal_rail_raised_ne", "y": 270 },
+        "shape=ascending_north": { "model": "normal_rail_raised_ne" },
+        "shape=ascending_south": { "model": "normal_rail_raised_ne", "y": 180 },
+        "shape=south_east": [
+            { "model": "normal_rail_curved" },
+            { "model": "normal_rail_curved_plank_1" },
+            { "model": "normal_rail_curved_plank_2" }
+        ],
+        "shape=south_west": [
+            { "model": "normal_rail_curved", "y": 90 },
+            { "model": "normal_rail_curved_plank_1", "y": 90 },
+            { "model": "normal_rail_curved_plank_2", "y": 90 }
+        ],
+        "shape=north_west": [
+            { "model": "normal_rail_curved", "y": 180 },
+            { "model": "normal_rail_curved_plank_1", "y": 180 },
+            { "model": "normal_rail_curved_plank_2", "y": 180 }
+        ],
+        "shape=north_east": [
+            { "model": "normal_rail_curved", "y": 270 },
+            { "model": "normal_rail_curved_plank_1", "y": 270 },
+            { "model": "normal_rail_curved_plank_2", "y": 270 }
+        ]
+    }
+}
